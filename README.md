@@ -40,7 +40,7 @@ CLI-Anything: Bridging the Gap Between AI Agents and the World's Software</stron
 
 | Date | Update |
 |------|--------|
-| **2026-03-15** | Merged Windows cygpath guard to ensure CLI-Anything works reliably in Windows bash environments without cygpath. Community contributions continue to strengthen cross-platform support. |
+| **2026-03-15** | Support for OpenClaw from the Community! Merged Windows cygpath guard to ensure CLI-Anything works reliably in Windows bash environments without cygpath. Community contributions continue to strengthen cross-platform support. |
 | **2026-03-14** | Fixed a GIMP Script-Fu path injection vulnerability and added Japanese README translation. OpenCode version requirements documented alongside several Windows compatibility improvements. |
 | **2026-03-13** | Qodercli plugin officially merged as a community contribution with dedicated setup scripts. Codex skill gained a Windows install script, and placeholder URLs were cleaned up across the project. |
 | **2026-03-12** | Codex skill integration landed, bringing CLI-Anything to yet another AI coding platform. Qodercli support was also introduced, and documentation was updated with limitations and experimental labels. |
@@ -225,7 +225,7 @@ This registers the cli-anything plugin in `~/.qoder.json`. Start a new Qodercli 
 
 <details>
 
-<summary><h4 id="-openclaw">⚡ OpenClaw</h4></summary>
+<summary><h4 id="-openclaw">⚡ OpenClaw <sup><code>Community</code></sup></h4></summary>
 
 **Step 1: Install the Skill**
 
