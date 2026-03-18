@@ -38,6 +38,7 @@
 !/drawio/
 !/mermaid/
 !/adguardhome/
+!/datagouv-mcp/
 
 # Step 5: Inside each software dir, ignore everything (including dotfiles)
 /gimp/*
@@ -66,6 +67,8 @@
 /mermaid/.*
 /adguardhome/*
 /adguardhome/.*
+/datagouv-mcp/*
+/datagouv-mcp/.*
 
 # Step 6: ...except agent-harness/
 !/gimp/agent-harness/
@@ -81,6 +84,7 @@
 !/drawio/agent-harness/
 !/mermaid/agent-harness/
 !/adguardhome/agent-harness/
+!/datagouv-mcp/agent-harness/
 
 # Step 7: Ignore build artifacts within allowed dirs
 **/__pycache__/
